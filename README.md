@@ -51,4 +51,4 @@ plt.show()
 ```
 
 ###Outcome Revenue by Product (highest = green, lowest = red)
-![Outcome]()
+![Outcome](https://github.com/jananiii18/Basic-Sales-Summary/blob/38aed362f2e3af059da1ea6433a3f617424093a2/Chart.png)
