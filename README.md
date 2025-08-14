@@ -25,7 +25,7 @@ df_product = pd.read_sql_query(query_product, conn)
 df_product 
 ```
 ###Outcome
-![Outcome]()
+![Outcome](https://github.com/jananiii18/Basic-Sales-Summary/blob/d6cdc3aa55a374b591ddf8736816947387ce6491/Table.png)
 
 - Created bar charts with matplotlib:
 ```python
