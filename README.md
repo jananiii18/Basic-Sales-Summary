@@ -13,7 +13,7 @@
   
 ### Query:Total quantity and revenue by product  
 ```sql
-  query_product = """
+query_product = """
 select
   product,
   sum(quantity) AS total_qty,
